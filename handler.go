@@ -1,4 +1,4 @@
-package urlshort
+package shortly
 
 import (
 	"net/http"
